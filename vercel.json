@@ -4,10 +4,6 @@
         {
             "src": "api/sendEmail.js",
             "use": "@vercel/node"
-        },
-        {
-             "src": "index.html",
-             "use": "@vercel/static-build"
         }
     ],
     "routes": [
