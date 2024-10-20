@@ -1,0 +1,9 @@
+{
+    "version":2,
+    "builds":[
+        {
+            "src": "MyForm.html",
+            "use": "@vercel/static-build"
+        }
+    ]
+}
