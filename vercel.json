@@ -12,7 +12,7 @@
             "dest": "api/sendEmail.js"
         },
         {
-             "src": "(/.*)",
+             "src": "(/.)",
              "dest": "index.html"
         }
     ],
