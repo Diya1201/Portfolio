@@ -344,8 +344,9 @@ header.sticky .nav-bar{
     font-size: var(--normal-font-size);
     font-weight: 500;
 }
-.nl ul{
-    list-style-type: disc;
+ul .nl{
+    max-height: 200px;
+    overflow-y: auto;
 }
 .bar{
     background: var(--card-bg-color);
