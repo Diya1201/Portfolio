@@ -345,7 +345,7 @@ header.sticky .nav-bar{
     font-weight: 500;
 }
 ul .nl{
-    max-height: 100px;
+    max-height: 200px;
     overflow-y: auto;
 }
 .bar{
