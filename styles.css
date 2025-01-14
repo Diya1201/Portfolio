@@ -344,7 +344,7 @@ header.sticky .nav-bar{
     font-size: var(--normal-font-size);
     font-weight: 500;
 }
-.nested-list{
+.nl ul{
     list-style-type: disc;
 }
 .bar{
